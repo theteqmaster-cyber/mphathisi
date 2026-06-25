@@ -747,11 +747,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['
             </li>
             <li>
               <i class="fa-solid fa-envelope"></i>
-              <a href="mailto:theteqmaster@gmail.com">theteqmaster@gmail.com</a>
-            </li>
-            <li>
-              <i class="fa-solid fa-envelope"></i>
-              <a href="mailto:ndlovumphathisi23@gmail.com">ndlovumphathisi23@gmail.com</a>
+              <a href="mailto:dev@mphathisi.com">dev@mphathisi.com</a>
             </li>
             <li>
               <i class="fa-solid fa-location-dot"></i>
