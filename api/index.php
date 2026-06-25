@@ -738,6 +738,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['
           <p class="footer-brand-desc">
             A software engineer focused on developing secure, high-integrity solutions, with a strong background in APIs, Linux operations, and database reliability.
           </p>
+          <div class="footer-badge">
+            <a href="https://websitelaunches.com/site/mphathisi.com" target="_blank" rel="noopener">
+              <img
+                src="https://websitelaunches.com/badge/mphathisi.com.svg?theme=dark"
+                alt="Established online - Public launch record"
+                width="255"
+                height="55"
+              >
+            </a>
+          </div>
         </div>
         <div class="footer-right">
           <ul class="footer-contacts-list">

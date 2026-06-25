@@ -966,6 +966,25 @@ body.dark-theme .btn-secondary:hover {
   font-size: 0.82rem;
   max-width: 400px;
 }
+.footer-badge {
+  margin-top: 0.75rem;
+  display: flex;
+}
+.footer-badge a {
+  display: inline-block;
+  border-radius: 6px;
+  overflow: hidden;
+  transition: transform var(--transition), box-shadow var(--transition);
+}
+.footer-badge a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+.footer-badge img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 .footer-right {
   display: flex;
   flex-direction: column;
